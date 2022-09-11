@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/run_orb.cpp
+iostream
+-
+fstream
+-
+string
+-
+opencv2/opencv_modules.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/opencv_modules.hpp
+opencv2/core/utility.hpp
+-
+opencv2/imgcodecs.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/imgcodecs.hpp
+opencv2/highgui.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/highgui.hpp
+opencv2/stitching/detail/autocalib.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/autocalib.hpp
+opencv2/stitching/detail/blenders.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/blenders.hpp
+opencv2/stitching/detail/timelapsers.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/timelapsers.hpp
+opencv2/stitching/detail/camera.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/camera.hpp
+opencv2/stitching/detail/exposure_compensate.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/exposure_compensate.hpp
+opencv2/stitching/detail/matchers.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/matchers.hpp
+opencv2/stitching/detail/motion_estimators.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/motion_estimators.hpp
+opencv2/stitching/detail/seam_finders.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/seam_finders.hpp
+opencv2/stitching/detail/warpers.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/detail/warpers.hpp
+opencv2/stitching/warpers.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/stitching/warpers.hpp
+opencv2/xfeatures2d/nonfree.hpp
+/home/hangwu/projects/slam_test/OpenCV2_learn/2_ORB/test/opencv2/xfeatures2d/nonfree.hpp
+
